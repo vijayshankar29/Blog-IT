@@ -110,3 +110,9 @@
 
 
 }
+
+@media (max-width:370px){
+  #showcase .showcase-container{
+  
+  height: 75vh;
+}
